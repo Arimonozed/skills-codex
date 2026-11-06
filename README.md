@@ -34,5 +34,11 @@ Por padrão, todas as 15 skills estão disponíveis como pastas individuais, usa
 
 As fontes externas são o [Superpowers](https://github.com/obra/superpowers), o [repositório Vercel Agent Skills](https://github.com/vercel-labs/agent-skills), os pacotes apontados pelo [catálogo oficial da Vercel](https://vercel.com/docs/agent-resources/skills) e as skills do [plugin Vercel](https://github.com/vercel/vercel-plugin). O pacote inclui as pastas de skills; instalações de plugins, integrações MCP, logins, configurações da conta, histórico e credenciais são separados.
 
-A pasta extraída já é um repositório Git local. Se quiser sincronizá-la entre PCs pelo GitHub, use um repositório privado vazio como remoto. Nenhum remoto foi configurado neste pacote.
+## Clonar pelo GitHub
 
+Com Git instalado, você pode baixar o repositório diretamente e depois seguir os passos de instalação:
+
+~~~powershell
+git clone https://github.com/Arimonozed/skills-codex.git
+cd skills-codex
+~~~
