@@ -1,0 +1,986 @@
+{
+  "skills": [
+    {
+      "nome": "access-protected-vercel-deployment",
+      "nome_no_skill_md": "access-protected-vercel-deployment",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/access-protected-vercel-deployment"
+    },
+    {
+      "nome": "accessibility",
+      "nome_no_skill_md": "accessibility",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/accessibility"
+    },
+    {
+      "nome": "agent-browser",
+      "nome_no_skill_md": "agent-browser",
+      "grupo": "Vercel",
+      "fonte": "vercel-labs/agent-browser",
+      "pasta": "skills/agent-browser"
+    },
+    {
+      "nome": "ai-elements",
+      "nome_no_skill_md": "ai-elements",
+      "grupo": "Vercel",
+      "fonte": "vercel/ai-elements",
+      "pasta": "skills/ai-elements"
+    },
+    {
+      "nome": "ai-gateway",
+      "nome_no_skill_md": "ai-gateway",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/ai-gateway"
+    },
+    {
+      "nome": "ai-sdk",
+      "nome_no_skill_md": "ai-sdk",
+      "grupo": "Vercel",
+      "fonte": "vercel/ai",
+      "pasta": "skills/ai-sdk"
+    },
+    {
+      "nome": "auth",
+      "nome_no_skill_md": "auth",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/auth"
+    },
+    {
+      "nome": "autoship",
+      "nome_no_skill_md": "autoship",
+      "grupo": "Vercel",
+      "fonte": "vercel-labs/autoship",
+      "pasta": "skills/autoship"
+    },
+    {
+      "nome": "before-and-after",
+      "nome_no_skill_md": "before-and-after",
+      "grupo": "Vercel",
+      "fonte": "vercel-labs/before-and-after",
+      "pasta": "skills/before-and-after"
+    },
+    {
+      "nome": "bootstrap",
+      "nome_no_skill_md": "bootstrap",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/bootstrap"
+    },
+    {
+      "nome": "brainstorming",
+      "nome_no_skill_md": "brainstorming",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/brainstorming"
+    },
+    {
+      "nome": "build-agents",
+      "nome_no_skill_md": "build-agents",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/build-agents"
+    },
+    {
+      "nome": "building-components",
+      "nome_no_skill_md": "building-components",
+      "grupo": "Vercel",
+      "fonte": "vercel/components.build",
+      "pasta": "skills/building-components"
+    },
+    {
+      "nome": "cdn-caching",
+      "nome_no_skill_md": "cdn-caching",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/cdn-caching"
+    },
+    {
+      "nome": "chat-sdk",
+      "nome_no_skill_md": "chat-sdk",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/chat-sdk"
+    },
+    {
+      "nome": "cra-to-next-migration",
+      "nome_no_skill_md": "cra-to-next-migration",
+      "grupo": "Vercel",
+      "fonte": "vercel-labs/migration-skills",
+      "pasta": "skills/cra-to-next-migration"
+    },
+    {
+      "nome": "create-a-backend",
+      "nome_no_skill_md": "create-a-backend",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/create-a-backend"
+    },
+    {
+      "nome": "custom-metrics",
+      "nome_no_skill_md": "custom-metrics",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/custom-metrics"
+    },
+    {
+      "nome": "daemons",
+      "nome_no_skill_md": "daemons",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/daemons"
+    },
+    {
+      "nome": "deploy-to-vercel",
+      "nome_no_skill_md": "deploy-to-vercel",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/deploy-to-vercel"
+    },
+    {
+      "nome": "deployments-cicd",
+      "nome_no_skill_md": "deployments-cicd",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/deployments-cicd"
+    },
+    {
+      "nome": "diagnosing-superpowers",
+      "nome_no_skill_md": "diagnosing-superpowers",
+      "grupo": "Superpowers",
+      "fonte": "obra/superpowers",
+      "pasta": "skills/diagnosing-superpowers"
+    },
+    {
+      "nome": "dispatching-parallel-agents",
+      "nome_no_skill_md": "dispatching-parallel-agents",
+      "grupo": "Superpowers",
+      "fonte": "obra/superpowers",
+      "pasta": "skills/dispatching-parallel-agents"
+    },
+    {
+      "nome": "domains",
+      "nome_no_skill_md": "domains",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/domains"
+    },
+    {
+      "nome": "env-vars",
+      "nome_no_skill_md": "env-vars",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/env-vars"
+    },
+    {
+      "nome": "eve",
+      "nome_no_skill_md": "eve",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/eve"
+    },
+    {
+      "nome": "executing-plans",
+      "nome_no_skill_md": "executing-plans",
+      "grupo": "Superpowers",
+      "fonte": "obra/superpowers",
+      "pasta": "skills/executing-plans"
+    },
+    {
+      "nome": "find-skills",
+      "nome_no_skill_md": "find-skills",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/find-skills"
+    },
+    {
+      "nome": "finishing-a-development-branch",
+      "nome_no_skill_md": "finishing-a-development-branch",
+      "grupo": "Superpowers",
+      "fonte": "obra/superpowers",
+      "pasta": "skills/finishing-a-development-branch"
+    },
+    {
+      "nome": "flags-sdk",
+      "nome_no_skill_md": "flags-sdk",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/flags-sdk"
+    },
+    {
+      "nome": "frontend-design",
+      "nome_no_skill_md": "frontend-design",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/frontend-design"
+    },
+    {
+      "nome": "gh-fix-ci",
+      "nome_no_skill_md": "gh-fix-ci",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/gh-fix-ci"
+    },
+    {
+      "nome": "interface-design",
+      "nome_no_skill_md": "interface-design",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/interface-design"
+    },
+    {
+      "nome": "is-agentic",
+      "nome_no_skill_md": "is-agentic",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/is-agentic"
+    },
+    {
+      "nome": "json-render-core",
+      "nome_no_skill_md": "core",
+      "grupo": "Vercel",
+      "fonte": "vercel-labs/json-render",
+      "pasta": "skills/json-render-core"
+    },
+    {
+      "nome": "json-render-react",
+      "nome_no_skill_md": "react",
+      "grupo": "Vercel",
+      "fonte": "vercel-labs/json-render",
+      "pasta": "skills/json-render-react"
+    },
+    {
+      "nome": "json-render-react-native",
+      "nome_no_skill_md": "react-native",
+      "grupo": "Vercel",
+      "fonte": "vercel-labs/json-render",
+      "pasta": "skills/json-render-react-native"
+    },
+    {
+      "nome": "json-render-remotion",
+      "nome_no_skill_md": "remotion",
+      "grupo": "Vercel",
+      "fonte": "vercel-labs/json-render",
+      "pasta": "skills/json-render-remotion"
+    },
+    {
+      "nome": "knowledge-update",
+      "nome_no_skill_md": "knowledge-update",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/knowledge-update"
+    },
+    {
+      "nome": "marketplace",
+      "nome_no_skill_md": "marketplace",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/marketplace"
+    },
+    {
+      "nome": "microfrontends",
+      "nome_no_skill_md": "microfrontends",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/microfrontends"
+    },
+    {
+      "nome": "napkin",
+      "nome_no_skill_md": "napkin",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/napkin"
+    },
+    {
+      "nome": "next-cache-components-adoption",
+      "nome_no_skill_md": "next-cache-components-adoption",
+      "grupo": "Vercel",
+      "fonte": "vercel/next.js",
+      "pasta": "skills/next-cache-components-adoption"
+    },
+    {
+      "nome": "next-cache-components-optimizer",
+      "nome_no_skill_md": "next-cache-components-optimizer",
+      "grupo": "Vercel",
+      "fonte": "vercel/next.js",
+      "pasta": "skills/next-cache-components-optimizer"
+    },
+    {
+      "nome": "next-dev-loop",
+      "nome_no_skill_md": "next-dev-loop",
+      "grupo": "Vercel",
+      "fonte": "vercel/next.js",
+      "pasta": "skills/next-dev-loop"
+    },
+    {
+      "nome": "offload-to-sandbox",
+      "nome_no_skill_md": "offload-to-sandbox",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/offload-to-sandbox"
+    },
+    {
+      "nome": "performance",
+      "nome_no_skill_md": "performance",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/performance"
+    },
+    {
+      "nome": "playwright",
+      "nome_no_skill_md": "playwright",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/playwright"
+    },
+    {
+      "nome": "queues",
+      "nome_no_skill_md": "queues",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/queues"
+    },
+    {
+      "nome": "react-best-practices",
+      "nome_no_skill_md": "react-best-practices",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/react-best-practices"
+    },
+    {
+      "nome": "receiving-code-review",
+      "nome_no_skill_md": "receiving-code-review",
+      "grupo": "Superpowers",
+      "fonte": "obra/superpowers",
+      "pasta": "skills/receiving-code-review"
+    },
+    {
+      "nome": "remotion-best-practices",
+      "nome_no_skill_md": "remotion-best-practices",
+      "grupo": "Vercel",
+      "fonte": "vercel-labs/json-render",
+      "pasta": "skills/remotion-best-practices"
+    },
+    {
+      "nome": "requesting-code-review",
+      "nome_no_skill_md": "requesting-code-review",
+      "grupo": "Superpowers",
+      "fonte": "obra/superpowers",
+      "pasta": "skills/requesting-code-review"
+    },
+    {
+      "nome": "routing-middleware",
+      "nome_no_skill_md": "routing-middleware",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/routing-middleware"
+    },
+    {
+      "nome": "runtime-cache",
+      "nome_no_skill_md": "runtime-cache",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/runtime-cache"
+    },
+    {
+      "nome": "sandbox",
+      "nome_no_skill_md": "sandbox",
+      "grupo": "Vercel",
+      "fonte": "vercel/sandbox",
+      "pasta": "skills/sandbox"
+    },
+    {
+      "nome": "security-best-practices",
+      "nome_no_skill_md": "security-best-practices",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/security-best-practices"
+    },
+    {
+      "nome": "security-threat-model",
+      "nome_no_skill_md": "security-threat-model",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/security-threat-model"
+    },
+    {
+      "nome": "streamdown",
+      "nome_no_skill_md": "streamdown",
+      "grupo": "Vercel",
+      "fonte": "vercel/streamdown",
+      "pasta": "skills/streamdown"
+    },
+    {
+      "nome": "subagent-driven-development",
+      "nome_no_skill_md": "subagent-driven-development",
+      "grupo": "Superpowers",
+      "fonte": "obra/superpowers",
+      "pasta": "skills/subagent-driven-development"
+    },
+    {
+      "nome": "systematic-debugging",
+      "nome_no_skill_md": "systematic-debugging",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/systematic-debugging"
+    },
+    {
+      "nome": "test-driven-development",
+      "nome_no_skill_md": "test-driven-development",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/test-driven-development"
+    },
+    {
+      "nome": "turborepo",
+      "nome_no_skill_md": "turborepo",
+      "grupo": "Vercel",
+      "fonte": "vercel/turborepo",
+      "pasta": "skills/turborepo"
+    },
+    {
+      "nome": "ucp",
+      "nome_no_skill_md": "ucp",
+      "grupo": "Vercel",
+      "fonte": "vercel-labs/agentic-commerce-skills",
+      "pasta": "skills/ucp"
+    },
+    {
+      "nome": "using-git-worktrees",
+      "nome_no_skill_md": "using-git-worktrees",
+      "grupo": "Superpowers",
+      "fonte": "obra/superpowers",
+      "pasta": "skills/using-git-worktrees"
+    },
+    {
+      "nome": "using-superpowers",
+      "nome_no_skill_md": "using-superpowers",
+      "grupo": "Superpowers",
+      "fonte": "obra/superpowers",
+      "pasta": "skills/using-superpowers"
+    },
+    {
+      "nome": "vercel-agent",
+      "nome_no_skill_md": "vercel-agent",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/vercel-agent"
+    },
+    {
+      "nome": "vercel-cli",
+      "nome_no_skill_md": "vercel-cli",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel",
+      "pasta": "skills/vercel-cli"
+    },
+    {
+      "nome": "vercel-cli-with-tokens",
+      "nome_no_skill_md": "vercel-cli-with-tokens",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/vercel-cli-with-tokens"
+    },
+    {
+      "nome": "vercel-composition-patterns",
+      "nome_no_skill_md": "vercel-composition-patterns",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/vercel-composition-patterns"
+    },
+    {
+      "nome": "vercel-connect",
+      "nome_no_skill_md": "vercel-connect",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/vercel-connect"
+    },
+    {
+      "nome": "vercel-deploy",
+      "nome_no_skill_md": "vercel-deploy",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/vercel-deploy"
+    },
+    {
+      "nome": "vercel-firewall",
+      "nome_no_skill_md": "vercel-firewall",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/vercel-firewall"
+    },
+    {
+      "nome": "vercel-flags",
+      "nome_no_skill_md": "vercel-flags",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/vercel-flags"
+    },
+    {
+      "nome": "vercel-functions",
+      "nome_no_skill_md": "vercel-functions",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/vercel-functions"
+    },
+    {
+      "nome": "vercel-optimize",
+      "nome_no_skill_md": "vercel-optimize",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/vercel-optimize"
+    },
+    {
+      "nome": "vercel-react-best-practices",
+      "nome_no_skill_md": "vercel-react-best-practices",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/vercel-react-best-practices"
+    },
+    {
+      "nome": "vercel-react-native-skills",
+      "nome_no_skill_md": "vercel-react-native-skills",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/vercel-react-native-skills"
+    },
+    {
+      "nome": "vercel-react-view-transitions",
+      "nome_no_skill_md": "vercel-react-view-transitions",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/vercel-react-view-transitions"
+    },
+    {
+      "nome": "vercel-sandbox",
+      "nome_no_skill_md": "vercel-sandbox",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/vercel-sandbox"
+    },
+    {
+      "nome": "vercel-schedules",
+      "nome_no_skill_md": "vercel-schedules",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/vercel-schedules"
+    },
+    {
+      "nome": "vercel-services",
+      "nome_no_skill_md": "vercel-services",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/vercel-services"
+    },
+    {
+      "nome": "vercel-storage",
+      "nome_no_skill_md": "vercel-storage",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/vercel-storage"
+    },
+    {
+      "nome": "vercel-tracing",
+      "nome_no_skill_md": "vercel-tracing",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/vercel-tracing"
+    },
+    {
+      "nome": "verification",
+      "nome_no_skill_md": "verification",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "skills/verification"
+    },
+    {
+      "nome": "verification-before-completion",
+      "nome_no_skill_md": "verification-before-completion",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/verification-before-completion"
+    },
+    {
+      "nome": "web-design-guidelines",
+      "nome_no_skill_md": "web-design-guidelines",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/web-design-guidelines"
+    },
+    {
+      "nome": "webapp-testing",
+      "nome_no_skill_md": "webapp-testing",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/webapp-testing"
+    },
+    {
+      "nome": "workflow",
+      "nome_no_skill_md": "workflow",
+      "grupo": "Vercel",
+      "fonte": "vercel/workflow",
+      "pasta": "skills/workflow"
+    },
+    {
+      "nome": "writing-guidelines",
+      "nome_no_skill_md": "writing-guidelines",
+      "grupo": "Local",
+      "fonte": "PC",
+      "pasta": "skills/writing-guidelines"
+    },
+    {
+      "nome": "writing-plans",
+      "nome_no_skill_md": "writing-plans",
+      "grupo": "Superpowers",
+      "fonte": "obra/superpowers",
+      "pasta": "skills/writing-plans"
+    },
+    {
+      "nome": "writing-skills",
+      "nome_no_skill_md": "writing-skills",
+      "grupo": "Superpowers",
+      "fonte": "obra/superpowers",
+      "pasta": "skills/writing-skills"
+    }
+  ],
+  "superpowers": [
+    "brainstorming",
+    "diagnosing-superpowers",
+    "dispatching-parallel-agents",
+    "executing-plans",
+    "finishing-a-development-branch",
+    "receiving-code-review",
+    "requesting-code-review",
+    "subagent-driven-development",
+    "systematic-debugging",
+    "test-driven-development",
+    "using-git-worktrees",
+    "using-superpowers",
+    "verification-before-completion",
+    "writing-plans",
+    "writing-skills"
+  ],
+  "variantes": [
+    {
+      "nome": "brainstorming",
+      "nome_no_skill_md": "brainstorming",
+      "grupo": "Superpowers",
+      "fonte": "obra/superpowers",
+      "pasta": "originais/obra--superpowers/brainstorming"
+    },
+    {
+      "nome": "systematic-debugging",
+      "nome_no_skill_md": "systematic-debugging",
+      "grupo": "Superpowers",
+      "fonte": "obra/superpowers",
+      "pasta": "originais/obra--superpowers/systematic-debugging"
+    },
+    {
+      "nome": "test-driven-development",
+      "nome_no_skill_md": "test-driven-development",
+      "grupo": "Superpowers",
+      "fonte": "obra/superpowers",
+      "pasta": "originais/obra--superpowers/test-driven-development"
+    },
+    {
+      "nome": "verification-before-completion",
+      "nome_no_skill_md": "verification-before-completion",
+      "grupo": "Superpowers",
+      "fonte": "obra/superpowers",
+      "pasta": "originais/obra--superpowers/verification-before-completion"
+    },
+    {
+      "nome": "vercel-composition-patterns",
+      "nome_no_skill_md": "vercel-composition-patterns",
+      "grupo": "Vercel",
+      "fonte": "vercel-labs/agent-skills",
+      "pasta": "originais/vercel-labs--agent-skills/composition-patterns"
+    },
+    {
+      "nome": "deploy-to-vercel",
+      "nome_no_skill_md": "deploy-to-vercel",
+      "grupo": "Vercel",
+      "fonte": "vercel-labs/agent-skills",
+      "pasta": "originais/vercel-labs--agent-skills/deploy-to-vercel"
+    },
+    {
+      "nome": "vercel-react-best-practices",
+      "nome_no_skill_md": "vercel-react-best-practices",
+      "grupo": "Vercel",
+      "fonte": "vercel-labs/agent-skills",
+      "pasta": "originais/vercel-labs--agent-skills/react-best-practices"
+    },
+    {
+      "nome": "vercel-react-native-skills",
+      "nome_no_skill_md": "vercel-react-native-skills",
+      "grupo": "Vercel",
+      "fonte": "vercel-labs/agent-skills",
+      "pasta": "originais/vercel-labs--agent-skills/react-native-skills"
+    },
+    {
+      "nome": "vercel-react-view-transitions",
+      "nome_no_skill_md": "vercel-react-view-transitions",
+      "grupo": "Vercel",
+      "fonte": "vercel-labs/agent-skills",
+      "pasta": "originais/vercel-labs--agent-skills/react-view-transitions"
+    },
+    {
+      "nome": "vercel-cli-with-tokens",
+      "nome_no_skill_md": "vercel-cli-with-tokens",
+      "grupo": "Vercel",
+      "fonte": "vercel-labs/agent-skills",
+      "pasta": "originais/vercel-labs--agent-skills/vercel-cli-with-tokens"
+    },
+    {
+      "nome": "vercel-optimize",
+      "nome_no_skill_md": "vercel-optimize",
+      "grupo": "Vercel",
+      "fonte": "vercel-labs/agent-skills",
+      "pasta": "originais/vercel-labs--agent-skills/vercel-optimize"
+    },
+    {
+      "nome": "web-design-guidelines",
+      "nome_no_skill_md": "web-design-guidelines",
+      "grupo": "Vercel",
+      "fonte": "vercel-labs/agent-skills",
+      "pasta": "originais/vercel-labs--agent-skills/web-design-guidelines"
+    },
+    {
+      "nome": "writing-guidelines",
+      "nome_no_skill_md": "writing-guidelines",
+      "grupo": "Vercel",
+      "fonte": "vercel-labs/agent-skills",
+      "pasta": "originais/vercel-labs--agent-skills/writing-guidelines"
+    },
+    {
+      "nome": "find-skills",
+      "nome_no_skill_md": "find-skills",
+      "grupo": "Vercel",
+      "fonte": "vercel-labs/skills",
+      "pasta": "originais/vercel-labs--skills/find-skills"
+    },
+    {
+      "nome": "ai-sdk",
+      "nome_no_skill_md": "ai-sdk",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "originais/vercel--vercel-plugin/ai-sdk"
+    },
+    {
+      "nome": "vercel-cli",
+      "nome_no_skill_md": "vercel-cli",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "originais/vercel--vercel-plugin/vercel-cli"
+    },
+    {
+      "nome": "workflow",
+      "nome_no_skill_md": "workflow",
+      "grupo": "Vercel",
+      "fonte": "vercel/vercel-plugin",
+      "pasta": "originais/vercel--vercel-plugin/workflow"
+    }
+  ],
+  "fontes": {
+    "vercel/next.js": {
+      "commit": "8b7f2b894a4a7a3283967faec03cfd575ae3e7fb",
+      "skills": {
+        "next-dev-loop": "skills/next-dev-loop",
+        "next-cache-components-adoption": "skills/next-cache-components-adoption",
+        "next-cache-components-optimizer": "skills/next-cache-components-optimizer"
+      },
+      "url": "https://github.com/vercel/next.js"
+    },
+    "vercel-labs/migration-skills": {
+      "commit": "a9bdb175792cbb7cf816732790e8020d3c8e2370",
+      "skills": {
+        "cra-to-next-migration": "cra-to-next-migration"
+      },
+      "url": "https://github.com/vercel-labs/migration-skills"
+    },
+    "vercel/turborepo": {
+      "commit": "17691acd9bc80171e5ef4b3532ff0748ba231813",
+      "skills": {
+        "turborepo": "skills/turborepo"
+      },
+      "url": "https://github.com/vercel/turborepo"
+    },
+    "vercel/ai": {
+      "commit": "bb4e2d0a3bb9f990c9e99d4486cf9d9f8296ef59",
+      "skills": {
+        "ai-sdk": "skills/use-ai-sdk"
+      },
+      "url": "https://github.com/vercel/ai"
+    },
+    "vercel/ai-elements": {
+      "commit": "ca8be600bfd01b3131f9bf6134b51602a71f4374",
+      "skills": {
+        "ai-elements": "skills/ai-elements"
+      },
+      "url": "https://github.com/vercel/ai-elements"
+    },
+    "vercel/streamdown": {
+      "commit": "072ce7ead33a5e932c85b6e8f06cf83cc0f64191",
+      "skills": {
+        "streamdown": "skills/streamdown"
+      },
+      "url": "https://github.com/vercel/streamdown"
+    },
+    "vercel/sandbox": {
+      "commit": "0a60b67daf19e44f61c756314dd7dc980b03127c",
+      "skills": {
+        "sandbox": "skills/sandbox"
+      },
+      "url": "https://github.com/vercel/sandbox"
+    },
+    "vercel/vercel-plugin": {
+      "commit": "2a163af1e4b9ba5f8a02de3737eb0c884e21d765",
+      "skills": {
+        "offload-to-sandbox": "skills/offload-to-sandbox",
+        "vercel-sandbox": "skills/vercel-sandbox",
+        "access-protected-vercel-deployment": "skills/access-protected-vercel-deployment",
+        "ai-gateway": "skills/ai-gateway",
+        "ai-sdk": "skills/ai-sdk",
+        "auth": "skills/auth",
+        "bootstrap": "skills/bootstrap",
+        "build-agents": "skills/build-agents",
+        "cdn-caching": "skills/cdn-caching",
+        "chat-sdk": "skills/chat-sdk",
+        "create-a-backend": "skills/create-a-backend",
+        "custom-metrics": "skills/custom-metrics",
+        "daemons": "skills/daemons",
+        "deployments-cicd": "skills/deployments-cicd",
+        "domains": "skills/domains",
+        "env-vars": "skills/env-vars",
+        "eve": "skills/eve",
+        "flags-sdk": "skills/flags-sdk",
+        "is-agentic": "skills/is-agentic",
+        "knowledge-update": "skills/knowledge-update",
+        "marketplace": "skills/marketplace",
+        "microfrontends": "skills/microfrontends",
+        "queues": "skills/queues",
+        "react-best-practices": "skills/react-best-practices",
+        "routing-middleware": "skills/routing-middleware",
+        "runtime-cache": "skills/runtime-cache",
+        "vercel-agent": "skills/vercel-agent",
+        "vercel-cli": "skills/vercel-cli",
+        "vercel-connect": "skills/vercel-connect",
+        "vercel-firewall": "skills/vercel-firewall",
+        "vercel-flags": "skills/vercel-flags",
+        "vercel-functions": "skills/vercel-functions",
+        "vercel-schedules": "skills/vercel-schedules",
+        "vercel-services": "skills/vercel-services",
+        "vercel-storage": "skills/vercel-storage",
+        "vercel-tracing": "skills/vercel-tracing",
+        "verification": "skills/verification",
+        "workflow": "skills/workflow"
+      },
+      "url": "https://github.com/vercel/vercel-plugin"
+    },
+    "vercel/components.build": {
+      "commit": "ba727450437385af662810329fa19896215f76d5",
+      "skills": {
+        "building-components": "skills/building-components"
+      },
+      "url": "https://github.com/vercel/components.build"
+    },
+    "vercel-labs/agent-browser": {
+      "commit": "71850a021c5cb694513d720d61c156dd317d63cf",
+      "skills": {
+        "agent-browser": "skills/agent-browser"
+      },
+      "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    "vercel/vercel": {
+      "commit": "84878e532142f0ac584953695658b324eb9e5b80",
+      "skills": {
+        "vercel-cli": "skills/vercel-cli"
+      },
+      "url": "https://github.com/vercel/vercel"
+    },
+    "vercel-labs/autoship": {
+      "commit": "0ebe9fdfb7431f6b62eb5e87e41f54030e09c08c",
+      "skills": {
+        "autoship": "skills/autoship"
+      },
+      "url": "https://github.com/vercel-labs/autoship"
+    },
+    "vercel-labs/agentic-commerce-skills": {
+      "commit": "735241a60ffb77cea3c2c18a1ada0667e6565128",
+      "skills": {
+        "ucp": "ucp"
+      },
+      "url": "https://github.com/vercel-labs/agentic-commerce-skills"
+    },
+    "vercel/workflow": {
+      "commit": "d56e79184dca534b68ee960b92f08150825503ea",
+      "skills": {
+        "workflow": "skills/workflow"
+      },
+      "url": "https://github.com/vercel/workflow"
+    },
+    "vercel-labs/json-render": {
+      "commit": "18194121c8f087afacd9a8ef65fbda18374ee039",
+      "skills": {
+        "remotion-best-practices": "skills/remotion-best-practices",
+        "json-render-core": "skills/core",
+        "json-render-react": "skills/react",
+        "json-render-react-native": "skills/react-native",
+        "json-render-remotion": "skills/remotion"
+      },
+      "url": "https://github.com/vercel-labs/json-render"
+    },
+    "vercel-labs/skills": {
+      "commit": "d3701c11b1101251af14c9d148f026e1a47ebe17",
+      "skills": {
+        "find-skills": "skills/find-skills"
+      },
+      "url": "https://github.com/vercel-labs/skills"
+    },
+    "vercel-labs/before-and-after": {
+      "commit": "8306d34f459b6704e08e6adb5829fcddb0dc3557",
+      "skills": {
+        "before-and-after": "skill"
+      },
+      "url": "https://github.com/vercel-labs/before-and-after"
+    },
+    "obra/superpowers": {
+      "commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+      "skills": {
+        "brainstorming": "skills/brainstorming",
+        "diagnosing-superpowers": "skills/diagnosing-superpowers",
+        "dispatching-parallel-agents": "skills/dispatching-parallel-agents",
+        "executing-plans": "skills/executing-plans",
+        "finishing-a-development-branch": "skills/finishing-a-development-branch",
+        "receiving-code-review": "skills/receiving-code-review",
+        "requesting-code-review": "skills/requesting-code-review",
+        "subagent-driven-development": "skills/subagent-driven-development",
+        "systematic-debugging": "skills/systematic-debugging",
+        "test-driven-development": "skills/test-driven-development",
+        "using-git-worktrees": "skills/using-git-worktrees",
+        "using-superpowers": "skills/using-superpowers",
+        "verification-before-completion": "skills/verification-before-completion",
+        "writing-plans": "skills/writing-plans",
+        "writing-skills": "skills/writing-skills"
+      },
+      "url": "https://github.com/obra/superpowers"
+    },
+    "vercel-labs/agent-skills": {
+      "commit": "1a2c79d4e6c4a2283dc2c614b6538cbe1ed5ca62",
+      "skills": {
+        "composition-patterns": "skills/composition-patterns",
+        "deploy-to-vercel": "skills/deploy-to-vercel",
+        "react-best-practices": "skills/react-best-practices",
+        "react-native-skills": "skills/react-native-skills",
+        "react-view-transitions": "skills/react-view-transitions",
+        "vercel-cli-with-tokens": "skills/vercel-cli-with-tokens",
+        "vercel-optimize": "skills/vercel-optimize",
+        "web-design-guidelines": "skills/web-design-guidelines",
+        "writing-guidelines": "skills/writing-guidelines"
+      },
+      "url": "https://github.com/vercel-labs/agent-skills"
+    }
+  }
+}
